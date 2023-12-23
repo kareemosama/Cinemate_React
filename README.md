@@ -12,7 +12,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [References](#references)
+- [Reference](#Reference)
 
 ## About
 
@@ -73,7 +73,7 @@ Follow these steps to set up and run Cinemate React locally:
    npm start
    ```
 
-# Refrence
+# Reference
 
 - [Tailwind CSS](https://tailwindcss.com): A utility-first CSS framework used for styling the application.
 - [Google Fonts - Roboto](https://fonts.google.com/specimen/Roboto): The Roboto font family used for text elements.
